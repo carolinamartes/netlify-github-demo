@@ -4,6 +4,7 @@ body {
   padding: 50px 0;
   font-family: sans-serif;
   line-height: 1.5;
+  background-color: hotpink;
 }
 
 h1 {
@@ -12,7 +13,7 @@ h1 {
 }
 
 small {
-  font-size: 18px;
+  font-size: 20px;
   margin: 0;
   font-style: italic
 }
